@@ -1,4 +1,4 @@
-package assignment2;
+package Caterpillar_Game;
 
 public class Caterpillar extends MyDoublyLinkedList <Position> {
     public Caterpillar(){
