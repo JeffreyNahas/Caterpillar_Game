@@ -1,4 +1,4 @@
-package assignment2;
+package Caterpillar_Game;
 
 public class TargetQueue extends MyQueue<Position> {
     private MyStack<String> string_stack;
