@@ -1,4 +1,4 @@
-package assignment2;
+package Caterpillar_Game;
 
 public enum GameState {
     WALL_COLLISION,
