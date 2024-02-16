@@ -1,4 +1,4 @@
-package assignment2;
+package Caterpillar_Game;
 
 public abstract class MyLinkedList <E> implements MyList <E> {
     protected int size;
