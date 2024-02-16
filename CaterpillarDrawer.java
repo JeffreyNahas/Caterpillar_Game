@@ -1,4 +1,4 @@
-package game;
+package Caterpillar_Game;
 
 import assignment2.Caterpillar;
 import assignment2.Position;
