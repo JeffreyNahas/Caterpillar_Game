@@ -1,4 +1,4 @@
-package assignment2;
+package Caterpillar_Game;
 import java.util.NoSuchElementException;
 public class MyQueue<E>{
     private MyDoublyLinkedList list;
