@@ -1,4 +1,4 @@
-package game;
+package Caterpillar_Game;
 
 import javax.swing.JFrame;
 import assignment2.ActionQueue;
